@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://KaguyaMoon.github.io/sitemap.xml 
