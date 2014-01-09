@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Game Pattisiere]]></title>
   <link href="http://KaguyaMoon.github.io/atom.xml" rel="self"/>
   <link href="http://KaguyaMoon.github.io/"/>
-  <updated>2014-01-08T20:45:42+09:00</updated>
+  <updated>2014-01-09T18:35:12+09:00</updated>
   <id>http://KaguyaMoon.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Takuya Shishido]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test]]></title>
+    <link href="http://KaguyaMoon.github.io/blog/2014/01/09/test/"/>
+    <updated>2014-01-09T15:46:13+09:00</updated>
+    <id>http://KaguyaMoon.github.io/blog/2014/01/09/test</id>
+    <content type="html"><![CDATA[<p>test post</p>
+]]></content>
+  </entry>
   
 </feed>
